@@ -1,0 +1,53 @@
+17.7.2023, 17:51:19 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 17:51:47 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 17:55:14 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 17:55:55 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 17:56:12 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 17:57:05 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 17:57:31 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 17:57:36 - INFO - Toy lkhmn removed
+17.7.2023, 18:15:57 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 18:39:37 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:09:57 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:10:28 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:11:15 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:13:36 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:15:33 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:15:35 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:21:05 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:21:51 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:22:12 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:22:21 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:22:57 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:35:38 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:40:28 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:42:03 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:44:09 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:44:38 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 20:45:12 - INFO - Server listening on port http://127.0.0.1:3033/
+17.7.2023, 21:21:29 - INFO - Toy 34trk removed
+17.7.2023, 21:23:02 - INFO - Toy sdv56 removed
+17.7.2023, 21:23:27 - INFO - Server listening on port http://127.0.0.1:3033/
+18.7.2023, 13:43:42 - INFO - Server listening on port http://127.0.0.1:3033/
+18.7.2023, 14:00:47 - INFO - Server listening on port http://127.0.0.1:3033/
+18.7.2023, 14:01:42 - INFO - Server listening on port http://127.0.0.1:3033/
+18.7.2023, 14:15:13 - INFO - Toy saved! | {"name":"Moishe","createdAt":1689678913163,"labels":["On wheels","Art"],"inStock":false,"price":32,"_id":"g5bOC"}
+18.7.2023, 14:21:23 - INFO - Toy g5bOC removed
+18.7.2023, 14:22:22 - INFO - Toy saved! | {"name":"Moishe","createdAt":1689679342973,"labels":["Box game","Baby"],"inStock":false,"price":4,"_id":"89TMe"}
+18.7.2023, 14:23:02 - INFO - Toy 89TMe removed
+18.7.2023, 14:23:19 - INFO - Toy saved! | {"name":"asdsad","createdAt":1689679399281,"labels":["On wheels"],"inStock":false,"price":2,"_id":"8XDCr"}
+18.7.2023, 14:25:20 - INFO - Toy saved! | {"name":"sadas","createdAt":1689679520980,"labels":["Box game"],"inStock":false,"price":4,"_id":"f4a0q"}
+18.7.2023, 14:25:39 - INFO - Toy f4a0q removed
+18.7.2023, 14:25:40 - INFO - Toy 8XDCr removed
+18.7.2023, 14:28:02 - INFO - Toy saved! | {"name":"asda","createdAt":1689679682189,"labels":["On wheels","Baby"],"inStock":false,"price":2,"_id":"ngYAf"}
+18.7.2023, 14:28:47 - INFO - Toy saved! | {"name":"sdsd","createdAt":1689679727247,"labels":["Box game","Outdoor"],"inStock":false,"price":2,"_id":"GOoOr"}
+18.7.2023, 14:28:55 - INFO - Toy ngYAf removed
+18.7.2023, 14:28:56 - INFO - Toy GOoOr removed
+18.7.2023, 14:29:08 - INFO - Toy saved! | {"name":"asdasd","createdAt":1689679748333,"labels":["On wheels","Battery powered"],"inStock":false,"price":4,"_id":"BW0b6"}
+18.7.2023, 14:29:30 - INFO - Toy BW0b6 removed
+18.7.2023, 14:29:52 - INFO - Toy saved! | {"name":"asdasd","createdAt":1689679792212,"labels":["Box game"],"inStock":false,"price":2,"_id":"lURkP"}
+18.7.2023, 14:29:56 - INFO - Toy lURkP removed
+18.7.2023, 14:33:28 - INFO - Toy saved! | {"_id":"34trk","name":"Truck","createdAt":163103180101,"labels":["outdoor","battery powered","on wheels"],"inStock":true,"price":22.98}
+18.7.2023, 14:33:39 - INFO - Toy saved! | {"_id":"34trk","name":"Truckk","createdAt":163103180101,"labels":["outdoor","battery powered","on wheels"],"inStock":true,"price":22.98}
+18.7.2023, 14:34:11 - INFO - Toy saved! | {"_id":"34trk","name":"Truck","createdAt":163103180101,"labels":["outdoor","battery powered","on wheels"],"inStock":true,"price":22.99}
+18.7.2023, 16:43:09 - INFO - Server listening on port http://127.0.0.1:3033/
