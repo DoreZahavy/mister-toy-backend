@@ -7,21 +7,30 @@ import { loggerService } from './services/logger.service.js'
 import { userService } from './services/user.service.js'
 import { utilService } from './services/util.service.js'
 
-if (process.env.NODE_ENV === 'production') {
-    app.use(express.static(path.resolve('public')))
-} else {
+// if (process.env.NODE_ENV === 'production') {
+//     app.use(express.static(path.resolve('public')))
+// } else {
 
-    const corsOptions = {
-        origin: ['http://127.0.0.1:8080',
-            'http://localhost:8080',
-            'http://127.0.0.1:3000',
-            'http://localhost:5173',
-            'http://127.0.0.1:5173',
-            'http://localhost:3000'],
-        credentials: true
+//     const corsOptions = {
+//         origin: ['http://127.0.0.1:8080',
+//             'http://localhost:8080',
+//             'http://127.0.0.1:3000',
+//             'http://localhost:5173',
+//             'http://127.0.0.1:5173',
+//             'http://localhost:3000'],
+//         credentials: true
+//     }
+//     app.use(cors(corsOptions))
+// }
+const corsOptions = {
+    origin: ['http://127.0.0.1:8080',
+    'http://localhost:8080',
+    'http://127.0.0.1:3000',
+    'http://localhost:5173',
+    'http://127.0.0.1:5173',
+    'http://localhost:3000'],
+    credentials: true
     }
-    app.use(cors(corsOptions))
-}
 
 const app = express()
 
@@ -30,11 +39,12 @@ const app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(express.static('public'))
+app.use(cors(corsOptions))
 
 
 // Get Toys (READ)
 app.get('/api/toy', (req, res) => {
-
+   
     const filterBy = {
         name: req.query.name || '',
         stock: req.query.stock || '',
@@ -43,11 +53,11 @@ app.get('/api/toy', (req, res) => {
         labels: req.query.labels || [],
         pageIdx: req.query.pageIdx || 0,
     }
-
+   
 
     toyService.query(filterBy)
         .then(toys => {
-
+            
             res.send(toys)
         })
         .catch(err => {
@@ -61,8 +71,8 @@ app.put('/api/toy/:toyId', (req, res) => {
     // const loggedinUser = userService.validateToken(req.cookies.loginToken)
     // if (!loggedinUser) return res.status(401).send('Cannot save toy')
 
-    const { _id, name, createdAt, labels, inStock, price } = req.body
-    const toyToSave = { _id, name, createdAt, labels, inStock, price }
+    const { _id, name, createdAt , labels ,inStock , price } = req.body
+    const toyToSave = {  _id, name, createdAt , labels ,inStock , price }
 
     toyService.save(toyToSave)
         .then(savedToy => {
@@ -80,8 +90,8 @@ app.post('/api/toy/', (req, res) => {
     // const loggedinUser = userService.validateToken(req.cookies.loginToken)
     // if (!loggedinUser) return res.status(401).send('Cannot save toy')
 
-    const { name, createdAt, labels, inStock, price } = req.body
-    const toyToSave = { name, createdAt, labels, inStock, price }
+    const {  name, createdAt , labels ,inStock , price } = req.body
+    const toyToSave = {  name, createdAt , labels ,inStock , price }
 
     toyService.save(toyToSave)
         .then(savedToy => {
