@@ -52,3 +52,6 @@
 18.7.2023, 14:34:11 - INFO - Toy saved! | {"_id":"34trk","name":"Truck","createdAt":163103180101,"labels":["outdoor","battery powered","on wheels"],"inStock":true,"price":22.99}
 18.7.2023, 16:43:09 - INFO - Server listening on port http://127.0.0.1:3033/
 18.7.2023, 17:07:25 - INFO - Server listening on port http://127.0.0.1:3033/
+18.7.2023, 17:10:11 - INFO - Server listening on port http://127.0.0.1:3033/
+19.7.2023, 14:33:08 - INFO - Server listening on port http://127.0.0.1:3033/
+19.7.2023, 19:05:40 - INFO - Server listening on port http://127.0.0.1:3033/
