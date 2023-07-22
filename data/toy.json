@@ -1,6 +1,5 @@
 [
   {
-    "_id": "34trk",
     "name": "Truck",
     "createdAt": 163103180101,
     "labels": [
@@ -12,7 +11,6 @@
     "price": 22.99
   },
   {
-    "_id": "sdv56",
     "name": "Nature Puzzle",
     "createdAt": 163103180101,
     "inStock": true,
@@ -23,7 +21,6 @@
     ]
   },
   {
-    "_id": "sdgbj",
     "name": "Sling",
     "createdAt": 163103180101,
     "inStock": true,
@@ -33,7 +30,6 @@
     ]
   },
   {
-    "_id": "45tdg",
     "name": "Roller Skate",
     "createdAt": 163103180101,
     "inStock": true,
@@ -44,7 +40,6 @@
     ]
   },
   {
-    "_id": "kfidj",
     "name": "Monopoly",
     "createdAt": 163103180101,
     "inStock": true,
@@ -54,7 +49,6 @@
     ]
   },
   {
-    "_id": "uyk67",
     "name": "Macrame",
     "createdAt": 163103180101,
     "inStock": false,
@@ -64,7 +58,6 @@
     ]
   },
   {
-    "_id": "dbebe",
     "name": "Draw Book",
     "createdAt": 163103180101,
     "inStock": true,
@@ -74,19 +67,17 @@
     ]
   },
   {
-    "_id": "ergw",
     "name": "Talking Doll",
     "createdAt": 163103180101,
     "inStock": true,
     "price": 15.99,
     "labels": [
       "doll",
-      "Battery powered",
+      "battery powered",
       "baby"
     ]
   },
   {
-    "_id": "sfdbs",
     "name": "Code Name",
     "createdAt": 163103180101,
     "inStock": false,
@@ -97,200 +88,181 @@
     ]
   },
   {
-    "_id": "t102",
     "name": "Remote Control Car",
     "price": 49.99,
     "labels": [
-      "On wheels",
-      "Battery Powered",
-      "Outdoor"
+      "on wheels",
+      "battery powered",
+      "outdoor"
     ],
     "createdAt": 1631031802011,
     "inStock": true
   },
   {
-    "_id": "t103",
     "name": "Building Blocks",
     "price": 19.99,
     "labels": [
-      "Box game",
-      "Puzzle"
+      "box game",
+      "puzzle"
     ],
     "createdAt": 1631031803011,
     "inStock": false
   },
   {
-    "_id": "t104",
     "name": "Art Set",
     "price": 29.99,
     "labels": [
-      "Art"
+      "art"
     ],
     "createdAt": 1631031804011,
     "inStock": false
   },
   {
-    "_id": "t105",
     "name": "Stuffed Animal",
     "price": 9.99,
     "labels": [
-      "Baby"
+      "baby"
     ],
     "createdAt": 1631031805011,
     "inStock": true
   },
   {
-    "_id": "t106",
     "name": "Wooden Puzzle",
     "price": 14.99,
     "labels": [
-      "Puzzle"
+      "puzzle"
     ],
     "createdAt": 1631031806011,
     "inStock": true
   },
   {
-    "_id": "t107",
     "name": "Soccer Ball",
     "price": 19.99,
     "labels": [
-      "Outdoor"
+      "outdoor"
     ],
     "createdAt": 1631031807011,
     "inStock": true
   },
   {
-    "_id": "t108",
     "name": "Robot Toy",
     "price": 79.99,
     "labels": [
-      "Battery Powered"
+      "battery powered"
     ],
     "createdAt": 1631031808011,
     "inStock": true
   },
   {
-    "_id": "t109",
     "name": "RC Helicopter",
     "price": 59.99,
     "labels": [
-      "On wheels",
-      "Battery Powered",
-      "Outdoor"
+      "on wheels",
+      "battery powered",
+      "outdoor"
     ],
     "createdAt": 1631031809011,
     "inStock": true
   },
   {
-    "_id": "t110",
     "name": "Coloring Book",
     "price": 9.99,
     "labels": [
-      "Art"
+      "art"
     ],
     "createdAt": 1631031810011,
     "inStock": true
   },
   {
-    "_id": "t111",
     "name": "Play Mat",
     "price": 34.99,
     "labels": [
-      "Baby",
-      "Outdoor"
+      "baby",
+      "outdoor"
     ],
     "createdAt": 1631031811011,
     "inStock": true
   },
   {
-    "_id": "t112",
     "name": "Jigsaw Puzzle",
     "price": 12.99,
     "labels": [
-      "Puzzle"
+      "puzzle"
     ],
     "createdAt": 1631031812011,
     "inStock": true
   },
   {
-    "_id": "t113",
     "name": "Bubble Blower",
     "price": 7.99,
     "labels": [
-      "Outdoor",
-      "Battery Powered"
+      "outdoor",
+      "battery powered"
     ],
     "createdAt": 1631031813011,
     "inStock": true
   },
   {
-    "_id": "t114",
     "name": "Action Figure",
     "price": 24.99,
     "labels": [
-      "Doll"
+      "doll"
     ],
     "createdAt": 1631031814011,
     "inStock": true
   },
   {
-    "_id": "t115",
     "name": "Memory Game",
     "price": 9.99,
     "labels": [
-      "Box game"
+      "box game"
     ],
     "createdAt": 1631031815011,
     "inStock": true
   },
   {
-    "_id": "t116",
     "name": "Water Gun",
     "price": 14.99,
     "labels": [
-      "Outdoor"
+      "outdoor"
     ],
     "createdAt": 1631031816011,
     "inStock": true
   },
   {
-    "_id": "t117",
     "name": "Remote Control Boat",
     "price": 39.99,
     "labels": [
-      "On wheels",
-      "Battery Powered",
-      "Outdoor"
+      "on wheels",
+      "battery powered",
+      "outdoor"
     ],
     "createdAt": 1631031817011,
     "inStock": true
   },
   {
-    "_id": "t118",
     "name": "Drawing Set",
     "price": 19.99,
     "labels": [
-      "Art"
+      "art"
     ],
     "createdAt": 1631031818011,
     "inStock": true
   },
   {
-    "_id": "t119",
     "name": "Baby Rattle",
     "price": 6.99,
     "labels": [
-      "Baby"
+      "baby"
     ],
     "createdAt": 1631031819011,
     "inStock": true
   },
   {
-    "_id": "t120",
     "name": "Magnetic Blocks",
     "price": 29.99,
     "labels": [
-      "Box game"
+      "box game"
     ],
     "createdAt": 1631031820011,
     "inStock": true

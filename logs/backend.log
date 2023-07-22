@@ -55,3 +55,1050 @@
 18.7.2023, 17:10:11 - INFO - Server listening on port http://127.0.0.1:3033/
 19.7.2023, 14:33:08 - INFO - Server listening on port http://127.0.0.1:3033/
 19.7.2023, 19:05:40 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 9:12:33 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 9:40:26 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 10:16:12 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 10:16:27 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 10:21:56 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 10:26:58 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 12:18:23 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 15:16:09 - INFO - Server listening on port http://127.0.0.1:3033/
+20.7.2023, 18:40:23 - INFO - server.js loaded...
+20.7.2023, 18:40:23 - INFO - Server is running on port: 3033
+20.7.2023, 18:42:07 - INFO - Req was made | /
+20.7.2023, 18:42:07 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:42:07 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 18:42:07 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 18:45:09 - INFO - server.js loaded...
+20.7.2023, 18:45:09 - INFO - Server is running on port: 3033
+20.7.2023, 18:45:15 - INFO - Req was made | /
+20.7.2023, 18:45:15 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:45:15 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 18:45:15 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 18:49:23 - INFO - server.js loaded...
+20.7.2023, 18:49:23 - INFO - Server is running on port: 3033
+20.7.2023, 18:49:28 - INFO - Req was made | /
+20.7.2023, 18:49:28 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:49:28 - ERROR - Failed to get toys | ReferenceError: variable is not defined
+20.7.2023, 18:49:48 - INFO - server.js loaded...
+20.7.2023, 18:49:48 - INFO - Server is running on port: 3033
+20.7.2023, 18:49:53 - INFO - Req was made | /
+20.7.2023, 18:49:53 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:49:53 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 18:49:53 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 18:51:42 - INFO - server.js loaded...
+20.7.2023, 18:51:42 - INFO - Server is running on port: 3033
+20.7.2023, 18:51:46 - ERROR - cannot find toyss | ReferenceError: logger is not defined
+20.7.2023, 18:51:46 - INFO - Req was made | /
+20.7.2023, 18:51:46 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:51:46 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 18:51:58 - INFO - server.js loaded...
+20.7.2023, 18:51:58 - INFO - Server is running on port: 3033
+20.7.2023, 18:52:47 - INFO - server.js loaded...
+20.7.2023, 18:52:47 - INFO - Server is running on port: 3033
+20.7.2023, 18:54:14 - INFO - server.js loaded...
+20.7.2023, 18:54:14 - INFO - Server is running on port: 3033
+20.7.2023, 18:54:18 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:54:18 - INFO - Req was made | /
+20.7.2023, 18:54:18 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 18:54:18 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 18:55:07 - INFO - Req was made | /
+20.7.2023, 18:55:07 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:55:07 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 18:55:07 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 18:55:21 - INFO - server.js loaded...
+20.7.2023, 18:55:21 - INFO - Server is running on port: 3033
+20.7.2023, 18:55:26 - INFO - Req was made | /
+20.7.2023, 18:55:26 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 18:55:26 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 18:55:26 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 19:28:11 - INFO - Req was made | /
+20.7.2023, 19:28:11 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 19:28:11 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 19:28:11 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 19:30:08 - INFO - server.js loaded...
+20.7.2023, 19:30:08 - INFO - Server is running on port: 3033
+20.7.2023, 19:30:13 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"}
+20.7.2023, 19:30:13 - INFO - Req was made | /
+20.7.2023, 19:30:13 - ERROR - cannot find toys | ReferenceError: logger is not defined
+20.7.2023, 19:30:13 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+20.7.2023, 19:33:05 - INFO - server.js loaded...
+20.7.2023, 19:33:05 - INFO - Server is running on port: 3033
+20.7.2023, 19:33:45 - INFO - server.js loaded...
+20.7.2023, 19:33:45 - INFO - Server is running on port: 3033
+20.7.2023, 19:33:57 - INFO - server.js loaded... 
+20.7.2023, 19:33:57 - INFO - Server is running on port: 3033 
+20.7.2023, 19:34:07 - INFO - Req was made | / 
+20.7.2023, 19:34:07 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:34:07 - ERROR - cannot find toys | ReferenceError: logger is not defined 
+20.7.2023, 19:34:07 - ERROR - Failed to get toys | ReferenceError: logger is not defined 
+20.7.2023, 19:36:08 - INFO - server.js loaded... 
+20.7.2023, 19:36:08 - INFO - Server is running on port: 3033 
+20.7.2023, 19:36:12 - INFO - server.js loaded... 
+20.7.2023, 19:36:12 - INFO - Server is running on port: 3033 
+20.7.2023, 19:36:18 - INFO - Req was made | / 
+20.7.2023, 19:36:18 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:36:18 - ERROR - Cannot Connect to DB | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:36:18 - ERROR - Failed to get Mongo collection | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:36:18 - ERROR - cannot find toys | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:36:18 - ERROR - Failed to get toys | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:40:14 - INFO - server.js loaded... 
+20.7.2023, 19:40:14 - INFO - Server is running on port: 3033 
+20.7.2023, 19:40:17 - INFO - Req was made | / 
+20.7.2023, 19:40:17 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:40:17 - ERROR - Cannot Connect to DB | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:40:17 - ERROR - Failed to get Mongo collection | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:40:17 - ERROR - cannot find toys | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:40:17 - ERROR - Failed to get toys | TypeError: MongoClient.connect is not a function 
+20.7.2023, 19:41:03 - INFO - server.js loaded... 
+20.7.2023, 19:41:03 - INFO - Server is running on port: 3033 
+20.7.2023, 19:41:09 - INFO - Req was made | / 
+20.7.2023, 19:41:09 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:41:28 - INFO - server.js loaded... 
+20.7.2023, 19:41:28 - INFO - Server is running on port: 3033 
+20.7.2023, 19:41:41 - INFO - server.js loaded... 
+20.7.2023, 19:41:41 - INFO - Server is running on port: 3033 
+20.7.2023, 19:41:46 - INFO - Req was made | / 
+20.7.2023, 19:41:46 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:51:44 - INFO - server.js loaded... 
+20.7.2023, 19:51:44 - INFO - Server is running on port: 3033 
+20.7.2023, 19:52:16 - INFO - Req was made | / 
+20.7.2023, 19:52:16 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:53:42 - INFO - server.js loaded... 
+20.7.2023, 19:53:42 - INFO - Server is running on port: 3033 
+20.7.2023, 19:53:45 - INFO - Req was made | / 
+20.7.2023, 19:53:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:53:52 - INFO - Req was made | / 
+20.7.2023, 19:53:52 - DEBUG - Getting Toys | {"name":"s","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:53:59 - INFO - Req was made | / 
+20.7.2023, 19:53:59 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:55:10 - INFO - server.js loaded... 
+20.7.2023, 19:55:10 - INFO - Server is running on port: 3033 
+20.7.2023, 19:55:14 - INFO - Req was made | / 
+20.7.2023, 19:55:14 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 19:56:54 - INFO - server.js loaded... 
+20.7.2023, 19:56:54 - INFO - Server is running on port: 3033 
+20.7.2023, 19:56:59 - INFO - server.js loaded... 
+20.7.2023, 19:56:59 - INFO - Server is running on port: 3033 
+20.7.2023, 19:58:08 - INFO - server.js loaded... 
+20.7.2023, 19:58:08 - INFO - Server is running on port: 3033 
+20.7.2023, 19:58:12 - INFO - Req was made | / 
+20.7.2023, 19:58:12 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:00:07 - INFO - server.js loaded... 
+20.7.2023, 20:00:07 - INFO - Server is running on port: 3033 
+20.7.2023, 20:00:11 - INFO - Req was made | / 
+20.7.2023, 20:00:11 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:00:14 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"1"} 
+20.7.2023, 20:00:14 - INFO - Req was made | / 
+20.7.2023, 20:00:18 - INFO - Req was made | / 
+20.7.2023, 20:00:18 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:00:22 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"1"} 
+20.7.2023, 20:00:22 - INFO - Req was made | / 
+20.7.2023, 20:00:24 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:00:24 - INFO - Req was made | / 
+20.7.2023, 20:00:49 - INFO - server.js loaded... 
+20.7.2023, 20:00:49 - INFO - Server is running on port: 3033 
+20.7.2023, 20:00:54 - INFO - Req was made | / 
+20.7.2023, 20:00:54 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:00 - INFO - Req was made | / 
+20.7.2023, 20:01:00 - DEBUG - Getting Toys | {"name":"s","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:03 - INFO - Req was made | / 
+20.7.2023, 20:01:03 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:06 - INFO - Req was made | / 
+20.7.2023, 20:01:06 - DEBUG - Getting Toys | {"name":"bab","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:08 - INFO - Req was made | / 
+20.7.2023, 20:01:08 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:15 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:15 - INFO - Req was made | / 
+20.7.2023, 20:01:19 - INFO - Req was made | / 
+20.7.2023, 20:01:19 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"-1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:22 - INFO - Req was made | / 
+20.7.2023, 20:01:22 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:26 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:26 - INFO - Req was made | / 
+20.7.2023, 20:01:31 - INFO - Req was made | / 
+20.7.2023, 20:01:31 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:31 - INFO - Req was made | / 
+20.7.2023, 20:01:31 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"-1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:33 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:01:33 - INFO - Req was made | / 
+20.7.2023, 20:02:33 - INFO - server.js loaded... 
+20.7.2023, 20:02:33 - INFO - Server is running on port: 3033 
+20.7.2023, 20:02:36 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:02:36 - INFO - Req was made | / 
+20.7.2023, 20:03:35 - INFO - server.js loaded... 
+20.7.2023, 20:03:35 - INFO - Server is running on port: 3033 
+20.7.2023, 20:03:38 - INFO - Req was made | / 
+20.7.2023, 20:03:38 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:03:44 - INFO - Req was made | / 
+20.7.2023, 20:03:44 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:03:48 - DEBUG - Getting Toys | {"name":"","stock":"noStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:03:48 - INFO - Req was made | / 
+20.7.2023, 20:03:49 - INFO - Req was made | / 
+20.7.2023, 20:03:49 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:04:22 - INFO - server.js loaded... 
+20.7.2023, 20:04:22 - INFO - Server is running on port: 3033 
+20.7.2023, 20:04:26 - INFO - Req was made | / 
+20.7.2023, 20:04:26 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:04:28 - INFO - Req was made | / 
+20.7.2023, 20:04:28 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:04:31 - DEBUG - Getting Toys | {"name":"","stock":"noStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:04:31 - INFO - Req was made | / 
+20.7.2023, 20:04:33 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:04:33 - INFO - Req was made | / 
+20.7.2023, 20:05:43 - INFO - server.js loaded... 
+20.7.2023, 20:05:43 - INFO - Server is running on port: 3033 
+20.7.2023, 20:05:47 - INFO - Req was made | / 
+20.7.2023, 20:05:47 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:05:55 - INFO - Req was made | / 
+20.7.2023, 20:05:55 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":["on wheels"],"pageIdx":"0"} 
+20.7.2023, 20:05:58 - INFO - Req was made | / 
+20.7.2023, 20:05:58 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:06:44 - INFO - server.js loaded... 
+20.7.2023, 20:06:44 - INFO - Server is running on port: 3033 
+20.7.2023, 20:06:50 - INFO - server.js loaded... 
+20.7.2023, 20:06:50 - INFO - Server is running on port: 3033 
+20.7.2023, 20:06:53 - INFO - Req was made | / 
+20.7.2023, 20:06:53 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:06:57 - INFO - Req was made | / 
+20.7.2023, 20:06:57 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:07:00 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:07:00 - INFO - Req was made | / 
+20.7.2023, 20:07:58 - INFO - Req was made | / 
+20.7.2023, 20:07:58 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:08:03 - INFO - Req was made | / 
+20.7.2023, 20:08:03 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:10:06 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:10:06 - INFO - Req was made | / 
+20.7.2023, 20:13:07 - INFO - server.js loaded... 
+20.7.2023, 20:13:07 - INFO - Server is running on port: 3033 
+20.7.2023, 20:14:26 - INFO - server.js loaded... 
+20.7.2023, 20:14:26 - INFO - Server is running on port: 3033 
+20.7.2023, 20:16:52 - INFO - server.js loaded... 
+20.7.2023, 20:16:52 - INFO - Server is running on port: 3033 
+20.7.2023, 20:17:20 - INFO - server.js loaded... 
+20.7.2023, 20:17:20 - INFO - Server is running on port: 3033 
+20.7.2023, 20:18:10 - INFO - server.js loaded... 
+20.7.2023, 20:18:10 - INFO - Server is running on port: 3033 
+20.7.2023, 20:21:35 - INFO - server.js loaded... 
+20.7.2023, 20:21:35 - INFO - Server is running on port: 3033 
+20.7.2023, 20:21:38 - INFO - Req was made | / 
+20.7.2023, 20:21:38 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:21:38 - ERROR - Failed to get toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:21:38 - ERROR - cannot find toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:22:10 - INFO - server.js loaded... 
+20.7.2023, 20:22:10 - INFO - Server is running on port: 3033 
+20.7.2023, 20:22:13 - INFO - Req was made | / 
+20.7.2023, 20:22:13 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:22:30 - INFO - server.js loaded... 
+20.7.2023, 20:22:30 - INFO - Server is running on port: 3033 
+20.7.2023, 20:22:34 - INFO - Req was made | / 
+20.7.2023, 20:22:34 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:22:37 - INFO - server.js loaded... 
+20.7.2023, 20:22:37 - INFO - Server is running on port: 3033 
+20.7.2023, 20:22:38 - INFO - Req was made | / 
+20.7.2023, 20:22:38 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:22:39 - ERROR - cannot find toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:22:39 - ERROR - Failed to get toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:22:42 - INFO - Req was made | / 
+20.7.2023, 20:22:42 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:22:42 - ERROR - Failed to get toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:22:42 - ERROR - cannot find toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:22:57 - INFO - server.js loaded... 
+20.7.2023, 20:22:57 - INFO - Server is running on port: 3033 
+20.7.2023, 20:23:20 - INFO - server.js loaded... 
+20.7.2023, 20:23:20 - INFO - Server is running on port: 3033 
+20.7.2023, 20:23:23 - INFO - Req was made | / 
+20.7.2023, 20:23:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:23:26 - INFO - Req was made | / 
+20.7.2023, 20:23:26 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:23:33 - INFO - Req was made | / 
+20.7.2023, 20:23:33 - DEBUG - Getting Toys | {"name":"","stock":"noStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:23:36 - INFO - Req was made | / 
+20.7.2023, 20:23:36 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:24:49 - INFO - server.js loaded... 
+20.7.2023, 20:24:49 - INFO - Server is running on port: 3033 
+20.7.2023, 20:24:56 - INFO - Req was made | / 
+20.7.2023, 20:24:56 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:24:59 - INFO - Req was made | / 
+20.7.2023, 20:24:59 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:25:02 - INFO - Req was made | / 
+20.7.2023, 20:25:02 - DEBUG - Getting Toys | {"name":"","stock":"noStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:25:03 - INFO - Req was made | / 
+20.7.2023, 20:25:03 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:26:20 - INFO - server.js loaded... 
+20.7.2023, 20:26:20 - INFO - Server is running on port: 3033 
+20.7.2023, 20:26:23 - INFO - Req was made | / 
+20.7.2023, 20:26:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:26:27 - INFO - Req was made | / 
+20.7.2023, 20:26:27 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:26:29 - INFO - Req was made | / 
+20.7.2023, 20:26:29 - DEBUG - Getting Toys | {"name":"","stock":"noStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:26:30 - INFO - Req was made | / 
+20.7.2023, 20:26:30 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:27:21 - INFO - server.js loaded... 
+20.7.2023, 20:27:21 - INFO - Server is running on port: 3033 
+20.7.2023, 20:27:26 - INFO - Req was made | / 
+20.7.2023, 20:27:26 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:27:32 - INFO - Req was made | / 
+20.7.2023, 20:27:32 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:27:37 - INFO - Req was made | / 
+20.7.2023, 20:27:37 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"-1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:27:40 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:27:40 - INFO - Req was made | / 
+20.7.2023, 20:27:42 - INFO - Req was made | / 
+20.7.2023, 20:27:42 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"-1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:27:45 - INFO - Req was made | / 
+20.7.2023, 20:27:45 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:28:07 - INFO - server.js loaded... 
+20.7.2023, 20:28:07 - INFO - Server is running on port: 3033 
+20.7.2023, 20:28:12 - INFO - Req was made | / 
+20.7.2023, 20:28:12 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:28:12 - ERROR - cannot find toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:28:12 - ERROR - Failed to get toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:29:00 - INFO - server.js loaded... 
+20.7.2023, 20:29:00 - INFO - Server is running on port: 3033 
+20.7.2023, 20:29:02 - INFO - Req was made | / 
+20.7.2023, 20:29:02 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:29:02 - ERROR - cannot find toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:29:02 - ERROR - Failed to get toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:29:20 - INFO - server.js loaded... 
+20.7.2023, 20:29:20 - INFO - Server is running on port: 3033 
+20.7.2023, 20:29:22 - INFO - Req was made | / 
+20.7.2023, 20:29:22 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:29:23 - ERROR - cannot find toys | ReferenceError: sort is not defined 
+20.7.2023, 20:29:23 - ERROR - Failed to get toys | ReferenceError: sort is not defined 
+20.7.2023, 20:29:34 - INFO - server.js loaded... 
+20.7.2023, 20:29:34 - INFO - Server is running on port: 3033 
+20.7.2023, 20:29:36 - INFO - Req was made | / 
+20.7.2023, 20:29:36 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:29:36 - ERROR - cannot find toys | ReferenceError: sort is not defined 
+20.7.2023, 20:29:36 - ERROR - Failed to get toys | ReferenceError: sort is not defined 
+20.7.2023, 20:29:54 - INFO - Req was made | / 
+20.7.2023, 20:29:54 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:29:54 - ERROR - cannot find toys | ReferenceError: sort is not defined 
+20.7.2023, 20:29:54 - ERROR - Failed to get toys | ReferenceError: sort is not defined 
+20.7.2023, 20:30:08 - INFO - server.js loaded... 
+20.7.2023, 20:30:08 - INFO - Server is running on port: 3033 
+20.7.2023, 20:30:17 - INFO - server.js loaded... 
+20.7.2023, 20:30:17 - INFO - Server is running on port: 3033 
+20.7.2023, 20:30:23 - INFO - Req was made | / 
+20.7.2023, 20:30:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:30:23 - ERROR - cannot find toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:30:23 - ERROR - Failed to get toys | MongoServerError: FieldPath cannot be constructed with empty string 
+20.7.2023, 20:30:52 - INFO - server.js loaded... 
+20.7.2023, 20:30:52 - INFO - Server is running on port: 3033 
+20.7.2023, 20:30:54 - INFO - Req was made | / 
+20.7.2023, 20:30:54 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:30:59 - INFO - Req was made | / 
+20.7.2023, 20:30:59 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:31:01 - INFO - Req was made | / 
+20.7.2023, 20:31:01 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:31:18 - INFO - server.js loaded... 
+20.7.2023, 20:31:18 - INFO - Server is running on port: 3033 
+20.7.2023, 20:31:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:31:23 - INFO - Req was made | / 
+20.7.2023, 20:32:36 - INFO - server.js loaded... 
+20.7.2023, 20:32:36 - INFO - Server is running on port: 3033 
+20.7.2023, 20:32:39 - INFO - Req was made | / 
+20.7.2023, 20:32:39 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:32:44 - INFO - Req was made | / 
+20.7.2023, 20:32:44 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":["on wheels"],"pageIdx":"0"} 
+20.7.2023, 20:32:46 - INFO - Req was made | / 
+20.7.2023, 20:32:46 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":["on wheels","art"],"pageIdx":"0"} 
+20.7.2023, 20:32:48 - INFO - Req was made | / 
+20.7.2023, 20:32:48 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":["on wheels"],"pageIdx":"0"} 
+20.7.2023, 20:32:49 - INFO - Req was made | / 
+20.7.2023, 20:32:49 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:32:50 - INFO - Req was made | / 
+20.7.2023, 20:32:50 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":["baby"],"pageIdx":"0"} 
+20.7.2023, 20:32:57 - INFO - Req was made | / 
+20.7.2023, 20:32:57 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:33:00 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":["puzzle"],"pageIdx":"0"} 
+20.7.2023, 20:33:00 - INFO - Req was made | / 
+20.7.2023, 20:33:07 - INFO - Req was made | / 
+20.7.2023, 20:33:07 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:33:08 - INFO - Req was made | / 
+20.7.2023, 20:33:08 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":["box game"],"pageIdx":"0"} 
+20.7.2023, 20:33:11 - INFO - Req was made | / 
+20.7.2023, 20:33:11 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:37:31 - INFO - server.js loaded... 
+20.7.2023, 20:37:31 - INFO - Server is running on port: 3033 
+20.7.2023, 20:37:35 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:37:35 - INFO - Req was made | / 
+20.7.2023, 20:37:38 - DEBUG - Getting Toys | {"name":"","stock":"yesStock","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+20.7.2023, 20:37:38 - INFO - Req was made | / 
+20.7.2023, 20:37:40 - INFO - Req was made | / 
+20.7.2023, 20:37:40 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 10:22:04 - INFO - server.js loaded... 
+21.7.2023, 10:22:04 - INFO - Server is running on port: 3033 
+21.7.2023, 11:49:17 - INFO - server.js loaded... 
+21.7.2023, 11:49:17 - INFO - Server is running on port: 3033 
+21.7.2023, 11:51:02 - INFO - Req was made | / 
+21.7.2023, 11:51:02 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 11:51:58 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"1"} 
+21.7.2023, 11:51:58 - INFO - Req was made | / 
+21.7.2023, 11:52:02 - INFO - Req was made | / 
+21.7.2023, 11:52:02 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 11:53:16 - INFO - Req was made | / 
+21.7.2023, 11:53:16 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 11:53:52 - INFO - Req was made | / 
+21.7.2023, 11:53:52 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 11:55:35 - INFO - server.js loaded... 
+21.7.2023, 11:55:35 - INFO - Server is running on port: 3033 
+21.7.2023, 11:56:35 - INFO - Req was made | / 
+21.7.2023, 11:56:35 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 11:58:19 - INFO - Req was made | / 
+21.7.2023, 11:58:19 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 11:58:34 - INFO - Req was made | / 
+21.7.2023, 11:58:34 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 11:59:01 - INFO - Req was made | / 
+21.7.2023, 11:59:01 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:01:12 - INFO - Req was made | / 
+21.7.2023, 12:01:12 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:02:41 - INFO - Req was made | / 
+21.7.2023, 12:02:41 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:03:26 - INFO - Req was made | / 
+21.7.2023, 12:03:26 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:03:38 - INFO - Req was made | / 
+21.7.2023, 12:03:38 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:03:57 - INFO - Req was made | / 
+21.7.2023, 12:03:57 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:06:00 - INFO - Req was made | / 
+21.7.2023, 12:06:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:06:03 - INFO - Req was made | / 
+21.7.2023, 12:06:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:06:07 - INFO - Req was made | / 
+21.7.2023, 12:06:07 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:06:14 - INFO - Req was made | / 
+21.7.2023, 12:06:14 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:07:29 - INFO - Req was made | / 
+21.7.2023, 12:07:29 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:07:42 - INFO - Req was made | / 
+21.7.2023, 12:07:42 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:07:45 - INFO - Req was made | / 
+21.7.2023, 12:07:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:10:54 - INFO - Req was made | / 
+21.7.2023, 12:10:54 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:12:42 - INFO - Req was made | / 
+21.7.2023, 12:12:42 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:12:47 - INFO - Req was made | / 
+21.7.2023, 12:12:47 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:13:07 - INFO - Req was made | / 
+21.7.2023, 12:13:07 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:14:00 - INFO - Req was made | / 
+21.7.2023, 12:14:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:15:37 - INFO - Req was made | / 
+21.7.2023, 12:15:37 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:31:16 - INFO - server.js loaded... 
+21.7.2023, 12:31:16 - INFO - Server is running on port: 3033 
+21.7.2023, 12:31:20 - INFO - server.js loaded... 
+21.7.2023, 12:31:21 - INFO - Server is running on port: 3033 
+21.7.2023, 12:33:08 - INFO - Req was made | / 
+21.7.2023, 12:33:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:33:54 - INFO - Req was made | / 
+21.7.2023, 12:33:54 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:36:05 - INFO - Req was made | / 
+21.7.2023, 12:36:05 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:36:32 - INFO - server.js loaded... 
+21.7.2023, 12:36:32 - INFO - Server is running on port: 3033 
+21.7.2023, 12:36:44 - INFO - server.js loaded... 
+21.7.2023, 12:36:44 - INFO - Server is running on port: 3033 
+21.7.2023, 12:36:47 - INFO - Req was made | / 
+21.7.2023, 12:36:47 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:39:58 - INFO - server.js loaded... 
+21.7.2023, 12:39:58 - INFO - Server is running on port: 3033 
+21.7.2023, 12:40:03 - INFO - Req was made | / 
+21.7.2023, 12:40:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:40:44 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:40:44 - INFO - Req was made | / 
+21.7.2023, 12:48:47 - INFO - Req was made | / 
+21.7.2023, 12:48:47 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:49:08 - INFO - Req was made | / 
+21.7.2023, 12:49:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:50:24 - INFO - Req was made | / 
+21.7.2023, 12:50:24 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:50:31 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:50:31 - INFO - Req was made | / 
+21.7.2023, 12:51:29 - INFO - Req was made | / 
+21.7.2023, 12:51:29 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:57:15 - INFO - Req was made | / 
+21.7.2023, 12:57:15 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:57:48 - INFO - Req was made | / 
+21.7.2023, 12:57:48 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:58:53 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:58:53 - INFO - Req was made | / 
+21.7.2023, 12:59:30 - INFO - server.js loaded... 
+21.7.2023, 12:59:30 - INFO - Server is running on port: 3033 
+21.7.2023, 12:59:31 - INFO - Req was made | / 
+21.7.2023, 12:59:31 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 12:59:56 - INFO - Req was made | / 
+21.7.2023, 12:59:56 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:00:23 - INFO - Req was made | / 
+21.7.2023, 13:00:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:00:57 - INFO - Req was made | / 
+21.7.2023, 13:00:57 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:01:17 - INFO - Req was made | / 
+21.7.2023, 13:01:17 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:01:19 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:01:19 - ERROR - Failed to Login Error: Invalid username or password 
+21.7.2023, 13:01:19 - INFO - Req was made | / 
+21.7.2023, 13:01:19 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:02:01 - INFO - server.js loaded... 
+21.7.2023, 13:02:01 - INFO - Server is running on port: 3033 
+21.7.2023, 13:02:04 - INFO - Req was made | / 
+21.7.2023, 13:02:04 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:02:07 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:02:07 - ERROR - Failed to Login Error: Invalid username or password 
+21.7.2023, 13:02:08 - INFO - Req was made | / 
+21.7.2023, 13:02:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:05:32 - DEBUG - auth.service - signup with username: admin, fullname: adminos 
+21.7.2023, 13:05:32 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$yGlYBeJD3qSb6D3Gnm2AoOQ3Fc6jgqEVFMKjX/J3U/PT82utWG5pq","fullname":"adminos","_id":"64ba586c8aa43266a0148565"} 
+21.7.2023, 13:05:32 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:05:52 - INFO - Req was made | / 
+21.7.2023, 13:05:52 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:06:00 - DEBUG - auth.service - signup with username: a, fullname: a 
+21.7.2023, 13:06:00 - DEBUG - auth.service - login with username: a 
+21.7.2023, 13:06:00 - DEBUG - auth.route - new account created: {"username":"a","password":"$2b$10$DfsifoMJINHWPZXcz6yU5uDSuMNgozkkJByups3WWWLVlOtrXu67K","fullname":"a","_id":"64ba58888aa43266a0148566"} 
+21.7.2023, 13:08:46 - INFO - server.js loaded... 
+21.7.2023, 13:08:46 - INFO - Server is running on port: 3033 
+21.7.2023, 13:08:49 - INFO - Req was made | / 
+21.7.2023, 13:08:49 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:08:55 - DEBUG - auth.service - signup with username: b, fullname: b 
+21.7.2023, 13:08:55 - DEBUG - auth.route - new account created: {"username":"b","password":"$2b$10$XNAfVTgbhRkfjpTzIsp9Ku59qI9bF.Hxc8W2kWDN1pR/fDeBj66pC","fullname":"b","_id":"64ba59375948757ec2eb9736"} 
+21.7.2023, 13:08:55 - DEBUG - auth.service - login with username: b 
+21.7.2023, 13:10:52 - DEBUG - Getting Toys | {"name":"hol","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:10:52 - INFO - Req was made | / 
+21.7.2023, 13:13:45 - INFO - Req was made | / 
+21.7.2023, 13:13:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:14:00 - INFO - Req was made | / 
+21.7.2023, 13:14:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:14:14 - DEBUG - auth.service - login with username: a 
+21.7.2023, 13:14:14 - INFO - User login:  | {"_id":"64ba58888aa43266a0148566","username":"a","fullname":"a"} 
+21.7.2023, 13:32:21 - DEBUG - auth.service - signup with username: kikiki, fullname: kiki 
+21.7.2023, 13:32:21 - DEBUG - auth.route - new account created: {"username":"kikiki","password":"$2b$10$rWr.ZSadCh1h4hS2pTSF8eF9NPos825PYRX3dCJiysgGhKFIMJ1ou","fullname":"kiki","_id":"64ba5eb55948757ec2eb9738"} 
+21.7.2023, 13:32:21 - DEBUG - auth.service - login with username: kikiki 
+21.7.2023, 13:36:29 - INFO - server.js loaded... 
+21.7.2023, 13:36:29 - INFO - Server is running on port: 3033 
+21.7.2023, 13:36:38 - INFO - server.js loaded... 
+21.7.2023, 13:36:38 - INFO - Server is running on port: 3033 
+21.7.2023, 13:37:17 - INFO - server.js loaded... 
+21.7.2023, 13:37:17 - INFO - Server is running on port: 3033 
+21.7.2023, 13:43:40 - INFO - Req was made | / 
+21.7.2023, 13:43:40 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:43:43 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:43:43 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:44:01 - INFO - Req was made | / 
+21.7.2023, 13:44:01 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:44:03 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:44:03 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:44:19 - DEBUG - auth.service - signup with username: muki muk, fullname: muki 
+21.7.2023, 13:44:20 - DEBUG - auth.route - new account created: {"username":"muki muk","password":"$2b$10$.SZLtH0s8crusEbIRqQi.uETFcfBz1zweayMRtfIHbo9510klF4cq","fullname":"muki","_id":"64ba6184e42b48b16bca91c3"} 
+21.7.2023, 13:44:20 - DEBUG - auth.service - login with username: muki muk 
+21.7.2023, 13:48:37 - INFO - Req was made | / 
+21.7.2023, 13:48:37 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:48:51 - INFO - Req was made | / 
+21.7.2023, 13:48:51 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:49:06 - INFO - Req was made | / 
+21.7.2023, 13:49:06 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:49:12 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:49:12 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:50:24 - INFO - Req was made | / 
+21.7.2023, 13:50:24 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:50:26 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:50:26 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:51:22 - INFO - Req was made | / 
+21.7.2023, 13:51:22 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:51:26 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:51:27 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:51:29 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:51:29 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:53:37 - INFO - Req was made | / 
+21.7.2023, 13:53:37 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:53:40 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:53:41 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:54:32 - INFO - Req was made | / 
+21.7.2023, 13:54:32 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:54:58 - INFO - Req was made | / 
+21.7.2023, 13:54:58 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:56:21 - INFO - Req was made | / 
+21.7.2023, 13:56:21 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:57:08 - INFO - Req was made | / 
+21.7.2023, 13:57:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:57:30 - INFO - Req was made | / 
+21.7.2023, 13:57:30 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:57:31 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 13:57:32 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 13:58:40 - INFO - Req was made | / 
+21.7.2023, 13:58:41 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:59:20 - INFO - server.js loaded... 
+21.7.2023, 13:59:20 - INFO - Server is running on port: 3033 
+21.7.2023, 13:59:21 - INFO - Req was made | / 
+21.7.2023, 13:59:21 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:59:41 - INFO - Req was made | / 
+21.7.2023, 13:59:41 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:59:45 - INFO - Req was made | / 
+21.7.2023, 13:59:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 13:59:55 - INFO - Req was made | / 
+21.7.2023, 13:59:55 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:00:00 - INFO - Req was made | / 
+21.7.2023, 14:00:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:01:29 - INFO - Req was made | / 
+21.7.2023, 14:01:29 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:01:33 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 14:01:34 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 14:01:44 - DEBUG - auth.service - login with username: muki 
+21.7.2023, 14:01:44 - ERROR - Failed to Login Error: Invalid username or password 
+21.7.2023, 14:01:45 - INFO - Req was made | / 
+21.7.2023, 14:01:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:02:54 - DEBUG - auth.service - signup with username: moshe tzadok, fullname: moshe 
+21.7.2023, 14:02:54 - DEBUG - auth.route - new account created: {"username":"moshe tzadok","password":"$2b$10$9tKyZhGdRd.rWx9kXGJequ9uFqFoK9/e5xBDe4UJUw27RraydXOgu","fullname":"moshe","_id":"64ba65de0a3939bbea5fc00d"} 
+21.7.2023, 14:02:54 - DEBUG - auth.service - login with username: moshe tzadok 
+21.7.2023, 14:06:09 - DEBUG - auth.service - signup with username: moshe, fullname: Moshe Tzadok 
+21.7.2023, 14:06:09 - DEBUG - auth.route - new account created: {"username":"moshe","password":"$2b$10$Dv2zfDybeW2.Wj4TraLnHeD7gkm4T/HpSJl4dgdBGYQcC0D4JXqZ2","fullname":"Moshe Tzadok","_id":"64ba66a10a3939bbea5fc00e"} 
+21.7.2023, 14:06:09 - DEBUG - auth.service - login with username: moshe 
+21.7.2023, 14:06:55 - DEBUG - auth.service - signup with username: dore, fullname: DoreZ 
+21.7.2023, 14:06:55 - DEBUG - auth.service - login with username: dore 
+21.7.2023, 14:06:55 - DEBUG - auth.route - new account created: {"username":"dore","password":"$2b$10$j3M6xVXHVtNu2j1uEFHUhudvc0rT1p/fSduoagR0rsaRxv0ZTlHIu","fullname":"DoreZ","_id":"64ba66cf0a3939bbea5fc00f"} 
+21.7.2023, 14:07:20 - DEBUG - auth.service - login with username: dore 
+21.7.2023, 14:07:20 - INFO - User login:  | {"_id":"64ba66cf0a3939bbea5fc00f","username":"dore","fullname":"DoreZ"} 
+21.7.2023, 14:07:24 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 14:07:24 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 14:18:53 - INFO - Req was made | / 
+21.7.2023, 14:18:53 - DEBUG - Getting Toys | {"name":"ho","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:18:57 - ERROR - cannot remove toy 64ba59a45948757ec2eb9737 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 14:18:57 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 14:19:04 - INFO - Req was made | / 
+21.7.2023, 14:19:04 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:19:06 - INFO - Req was made | / 
+21.7.2023, 14:19:06 - DEBUG - Getting Toys | {"name":"ho","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:19:07 - INFO - Req was made | / 
+21.7.2023, 14:19:07 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:22:14 - INFO - Req was made | / 
+21.7.2023, 14:22:14 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:22:27 - INFO - Req was made | / 
+21.7.2023, 14:22:27 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:22:33 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:22:33 - INFO - Req was made | / 
+21.7.2023, 14:23:48 - INFO - Req was made | / 
+21.7.2023, 14:23:48 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:29:20 - INFO - Req was made | / 
+21.7.2023, 14:29:20 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:33:44 - INFO - Req was made | / 
+21.7.2023, 14:33:44 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:34:07 - INFO - Req was made | / 
+21.7.2023, 14:34:07 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:35:11 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:35:11 - INFO - Req was made | / 
+21.7.2023, 14:38:32 - INFO - Req was made | / 
+21.7.2023, 14:38:32 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:39:13 - INFO - Req was made | / 
+21.7.2023, 14:39:13 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 14:39:15 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 14:39:15 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 15:04:48 - INFO - Req was made | / 
+21.7.2023, 15:04:48 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:04:50 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 15:04:51 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 15:08:18 - INFO - Req was made | / 
+21.7.2023, 15:08:18 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:08:19 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 15:08:20 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 15:08:39 - INFO - Req was made | / 
+21.7.2023, 15:08:39 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:08:44 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 15:08:45 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 15:09:39 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 15:09:39 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 15:12:00 - INFO - Req was made | / 
+21.7.2023, 15:12:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:13:44 - INFO - Req was made | / 
+21.7.2023, 15:13:44 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:18:39 - INFO - server.js loaded... 
+21.7.2023, 15:18:39 - INFO - Server is running on port: 3033 
+21.7.2023, 15:19:32 - INFO - Req was made | / 
+21.7.2023, 15:19:32 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:19:33 - ERROR - cannot find toys | ReferenceError: filteredToys is not defined 
+21.7.2023, 15:19:33 - ERROR - Failed to get toys | ReferenceError: filteredToys is not defined 
+21.7.2023, 15:19:53 - INFO - server.js loaded... 
+21.7.2023, 15:19:53 - INFO - Server is running on port: 3033 
+21.7.2023, 15:19:55 - INFO - Req was made | / 
+21.7.2023, 15:19:55 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:19:57 - INFO - Req was made | / 
+21.7.2023, 15:19:57 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"1"} 
+21.7.2023, 15:19:59 - INFO - Req was made | / 
+21.7.2023, 15:19:59 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"2"} 
+21.7.2023, 15:20:00 - INFO - Req was made | / 
+21.7.2023, 15:20:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"1"} 
+21.7.2023, 15:20:01 - INFO - Req was made | / 
+21.7.2023, 15:20:01 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:20:45 - INFO - server.js loaded... 
+21.7.2023, 15:20:45 - INFO - Server is running on port: 3033 
+21.7.2023, 15:20:46 - INFO - Req was made | / 
+21.7.2023, 15:20:46 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:21:59 - INFO - Req was made | / 
+21.7.2023, 15:21:59 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:22:24 - INFO - Req was made | / 
+21.7.2023, 15:22:24 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:22:31 - INFO - Req was made | / 
+21.7.2023, 15:22:31 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:22:44 - INFO - Req was made | / 
+21.7.2023, 15:22:44 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:23:01 - INFO - Req was made | / 
+21.7.2023, 15:23:01 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:23:10 - INFO - Req was made | / 
+21.7.2023, 15:23:10 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"1"} 
+21.7.2023, 15:23:42 - INFO - Req was made | / 
+21.7.2023, 15:23:42 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:24:03 - INFO - Req was made | / 
+21.7.2023, 15:24:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:24:24 - INFO - Req was made | / 
+21.7.2023, 15:24:24 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:24:55 - ERROR - cannot remove toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 15:24:55 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 15:25:02 - INFO - Req was made | / 
+21.7.2023, 15:25:02 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:25:26 - INFO - server.js loaded... 
+21.7.2023, 15:25:26 - INFO - Server is running on port: 3033 
+21.7.2023, 15:25:49 - INFO - Req was made | / 
+21.7.2023, 15:25:49 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:25:53 - INFO - Req was made | / 
+21.7.2023, 15:25:53 - DEBUG - Getting Toys | {"name":"ho","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:26:47 - DEBUG - Getting Toys | {"name":"s","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:26:47 - INFO - Req was made | / 
+21.7.2023, 15:26:48 - INFO - Req was made | / 
+21.7.2023, 15:26:48 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 15:40:23 - INFO - server.js loaded... 
+21.7.2023, 15:40:23 - INFO - Server is running on port: 3033 
+21.7.2023, 17:11:49 - INFO - server.js loaded... 
+21.7.2023, 17:11:49 - INFO - Server is running on port: 3033 
+21.7.2023, 17:23:12 - INFO - Server is running on port: 3033 
+21.7.2023, 17:23:12 - INFO - server.js loaded... 
+21.7.2023, 17:24:05 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:24:05 - INFO - Req was made | / 
+21.7.2023, 17:28:32 - INFO - Req was made | / 
+21.7.2023, 17:28:32 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:29:00 - INFO - Req was made | / 
+21.7.2023, 17:29:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"1"} 
+21.7.2023, 17:29:01 - INFO - Req was made | / 
+21.7.2023, 17:29:01 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"2"} 
+21.7.2023, 17:29:02 - INFO - Req was made | / 
+21.7.2023, 17:29:02 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"1"} 
+21.7.2023, 17:29:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:29:03 - INFO - Req was made | / 
+21.7.2023, 17:37:24 - INFO - Req was made | / 
+21.7.2023, 17:37:24 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:43:06 - INFO - server.js loaded... 
+21.7.2023, 17:43:06 - INFO - Server is running on port: 3033 
+21.7.2023, 17:43:11 - INFO - Req was made | / 
+21.7.2023, 17:43:11 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:43:29 - INFO - Req was made | / 
+21.7.2023, 17:43:29 - DEBUG - Getting Toys | {"name":"ho","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:43:34 - INFO - Req was made | / 
+21.7.2023, 17:43:34 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:43:41 - INFO - Req was made | / 
+21.7.2023, 17:43:41 - DEBUG - Getting Toys | {"name":"ho","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:43:48 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 17:43:48 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 17:44:29 - INFO - server.js loaded... 
+21.7.2023, 17:44:29 - INFO - Server is running on port: 3033 
+21.7.2023, 17:47:16 - INFO - Req was made | / 
+21.7.2023, 17:47:16 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:48:03 - INFO - Req was made | / 
+21.7.2023, 17:48:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:48:18 - INFO - Req was made | / 
+21.7.2023, 17:48:18 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:48:28 - INFO - Req was made | / 
+21.7.2023, 17:48:28 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:48:37 - INFO - Req was made | / 
+21.7.2023, 17:48:37 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"price","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:48:38 - INFO - Req was made | / 
+21.7.2023, 17:48:38 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:48:44 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"1"} 
+21.7.2023, 17:48:44 - INFO - Req was made | / 
+21.7.2023, 17:48:45 - INFO - Req was made | / 
+21.7.2023, 17:48:45 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"2"} 
+21.7.2023, 17:48:46 - INFO - Req was made | / 
+21.7.2023, 17:48:46 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"3"} 
+21.7.2023, 17:48:47 - INFO - Req was made | / 
+21.7.2023, 17:48:47 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"4"} 
+21.7.2023, 17:48:49 - INFO - Req was made | / 
+21.7.2023, 17:48:49 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"5"} 
+21.7.2023, 17:48:50 - INFO - Req was made | / 
+21.7.2023, 17:48:50 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"6"} 
+21.7.2023, 17:48:51 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"7"} 
+21.7.2023, 17:48:51 - INFO - Req was made | / 
+21.7.2023, 17:48:55 - INFO - Req was made | / 
+21.7.2023, 17:48:55 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"6"} 
+21.7.2023, 17:48:57 - INFO - Req was made | / 
+21.7.2023, 17:48:57 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"7"} 
+21.7.2023, 17:49:11 - INFO - Req was made | / 
+21.7.2023, 17:49:11 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"6"} 
+21.7.2023, 17:49:13 - INFO - Req was made | / 
+21.7.2023, 17:49:13 - DEBUG - Getting Toys | {"name":"s","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:49:15 - INFO - Req was made | / 
+21.7.2023, 17:49:15 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:49:26 - INFO - Req was made | / 
+21.7.2023, 17:49:26 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 17:49:42 - INFO - Req was made | / 
+21.7.2023, 17:49:42 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:02:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:02:03 - INFO - Req was made | / 
+21.7.2023, 18:02:43 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:02:43 - INFO - Req was made | / 
+21.7.2023, 18:02:45 - INFO - Req was made | / 
+21.7.2023, 18:02:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:03:06 - INFO - Req was made | / 
+21.7.2023, 18:03:06 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:03:11 - INFO - Req was made | / 
+21.7.2023, 18:03:11 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:03:46 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 18:03:46 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 18:04:27 - INFO - Req was made | / 
+21.7.2023, 18:04:27 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:04:31 - INFO - Req was made | / 
+21.7.2023, 18:04:31 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:04:44 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 18:04:44 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 18:07:33 - INFO - Req was made | / 
+21.7.2023, 18:07:33 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:07:45 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 18:07:45 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 18:08:01 - INFO - Req was made | / 
+21.7.2023, 18:08:01 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:08:34 - INFO - Req was made | / 
+21.7.2023, 18:08:34 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:09:34 - INFO - Req was made | / 
+21.7.2023, 18:09:34 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:09:53 - INFO - Req was made | / 
+21.7.2023, 18:09:53 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:10:00 - INFO - Req was made | / 
+21.7.2023, 18:10:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:10:35 - INFO - Req was made | / 
+21.7.2023, 18:10:35 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:31:48 - INFO - Req was made | / 
+21.7.2023, 18:31:48 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:32:19 - INFO - Req was made | / 
+21.7.2023, 18:32:19 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:34:00 - INFO - Req was made | / 
+21.7.2023, 18:34:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:34:11 - INFO - Req was made | / 
+21.7.2023, 18:34:11 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:34:23 - INFO - Req was made | / 
+21.7.2023, 18:34:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:34:37 - INFO - Req was made | / 
+21.7.2023, 18:34:37 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:36:04 - INFO - Req was made | / 
+21.7.2023, 18:36:04 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:37:23 - INFO - Req was made | / 
+21.7.2023, 18:37:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:42:34 - INFO - server.js loaded... 
+21.7.2023, 18:42:34 - INFO - Server is running on port: 3033 
+21.7.2023, 18:48:06 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:48:06 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:48:16 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:48:16 - ERROR - while finding toy 64b9674a5af426f734a204ef | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:49:00 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:49:00 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:49:29 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:49:29 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:50:25 - INFO - server.js loaded... 
+21.7.2023, 18:50:25 - INFO - Server is running on port: 3033 
+21.7.2023, 18:50:37 - INFO - server.js loaded... 
+21.7.2023, 18:50:38 - INFO - Server is running on port: 3033 
+21.7.2023, 18:50:44 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:50:44 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:51:03 - INFO - server.js loaded... 
+21.7.2023, 18:51:03 - INFO - Server is running on port: 3033 
+21.7.2023, 18:51:06 - INFO - Req was made | / 
+21.7.2023, 18:51:06 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:51:06 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:51:06 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:51:27 - INFO - server.js loaded... 
+21.7.2023, 18:51:27 - INFO - Server is running on port: 3033 
+21.7.2023, 18:51:36 - INFO - server.js loaded... 
+21.7.2023, 18:51:36 - INFO - Server is running on port: 3033 
+21.7.2023, 18:51:40 - INFO - Req was made | / 
+21.7.2023, 18:51:40 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:51:40 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:51:40 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:51:43 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:51:43 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:52:21 - INFO - server.js loaded... 
+21.7.2023, 18:52:21 - INFO - Server is running on port: 3033 
+21.7.2023, 18:52:29 - INFO - Req was made | / 
+21.7.2023, 18:52:29 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:52:32 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:52:32 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:53:03 - INFO - server.js loaded... 
+21.7.2023, 18:53:03 - INFO - Server is running on port: 3033 
+21.7.2023, 18:53:08 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:53:08 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:53:08 - INFO - Req was made | / 
+21.7.2023, 18:53:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:53:10 - INFO - Req was made | / 
+21.7.2023, 18:53:10 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 18:53:15 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:53:15 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:57:54 - INFO - server.js loaded... 
+21.7.2023, 18:57:54 - INFO - Server is running on port: 3033 
+21.7.2023, 18:59:54 - ERROR - while finding toy 64b9674a5af426f734a204f9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 18:59:54 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+21.7.2023, 19:00:10 - INFO - server.js loaded... 
+21.7.2023, 19:00:10 - INFO - Server is running on port: 3033 
+21.7.2023, 19:23:23 - INFO - Req was made | / 
+21.7.2023, 19:23:23 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 19:23:51 - INFO - Req was made | / 
+21.7.2023, 19:23:51 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 19:27:12 - INFO - server.js loaded... 
+21.7.2023, 19:27:12 - INFO - Server is running on port: 3033 
+21.7.2023, 19:27:47 - INFO - server.js loaded... 
+21.7.2023, 19:27:47 - INFO - Server is running on port: 3033 
+21.7.2023, 19:29:17 - INFO - server.js loaded... 
+21.7.2023, 19:29:17 - INFO - Server is running on port: 3033 
+21.7.2023, 19:31:09 - INFO - Req was made | / 
+21.7.2023, 19:31:09 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 19:31:30 - INFO - Req was made | / 
+21.7.2023, 19:31:30 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:17:06 - INFO - Req was made | / 
+21.7.2023, 20:17:06 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:19:54 - INFO - Req was made | / 
+21.7.2023, 20:19:54 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:21:37 - INFO - Req was made | / 
+21.7.2023, 20:21:37 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:24:08 - INFO - Req was made | / 
+21.7.2023, 20:24:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:26:47 - INFO - Req was made | / 
+21.7.2023, 20:26:47 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:27:44 - INFO - server.js loaded... 
+21.7.2023, 20:27:44 - INFO - Server is running on port: 3033 
+21.7.2023, 20:27:50 - INFO - Req was made | / 
+21.7.2023, 20:27:50 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:30:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:30:03 - INFO - Req was made | / 
+21.7.2023, 20:30:19 - INFO - Req was made | / 
+21.7.2023, 20:30:19 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:30:56 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:30:56 - INFO - Req was made | / 
+21.7.2023, 20:36:52 - INFO - Req was made | / 
+21.7.2023, 20:36:52 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:37:08 - INFO - Req was made | / 
+21.7.2023, 20:37:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:37:22 - INFO - Req was made | / 
+21.7.2023, 20:37:22 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:40:14 - INFO - Req was made | / 
+21.7.2023, 20:40:14 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:40:56 - INFO - Req was made | / 
+21.7.2023, 20:40:56 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:40:59 - INFO - Req was made | / 
+21.7.2023, 20:40:59 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:41:27 - INFO - Req was made | / 
+21.7.2023, 20:41:27 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:42:29 - INFO - Req was made | / 
+21.7.2023, 20:42:29 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:42:45 - INFO - Req was made | / 
+21.7.2023, 20:42:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:44:13 - INFO - server.js loaded... 
+21.7.2023, 20:44:13 - INFO - Server is running on port: 3033 
+21.7.2023, 20:45:03 - DEBUG - auth.service - login with username: admin 
+21.7.2023, 20:45:03 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+21.7.2023, 20:45:42 - INFO - Req was made | / 
+21.7.2023, 20:45:42 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:46:30 - INFO - Req was made | / 
+21.7.2023, 20:46:30 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+21.7.2023, 20:52:32 - INFO - server.js loaded... 
+21.7.2023, 20:52:32 - INFO - Server is running on port: 3033 
+22.7.2023, 13:19:40 - INFO - server.js loaded... 
+22.7.2023, 13:19:40 - INFO - Server is running on port: 3033 
+22.7.2023, 13:19:45 - INFO - Req was made | / 
+22.7.2023, 13:19:45 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:24:13 - DEBUG - auth.service - login with username: admin 
+22.7.2023, 13:24:13 - INFO - User login:  | {"_id":"64ba586c8aa43266a0148565","username":"admin","fullname":"adminos","isAdmin":true} 
+22.7.2023, 13:24:33 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:24:33 - INFO - Req was made | / 
+22.7.2023, 13:25:37 - INFO - Req was made | / 
+22.7.2023, 13:25:37 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:25:46 - INFO - Req was made | / 
+22.7.2023, 13:25:46 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:25:51 - INFO - Req was made | / 
+22.7.2023, 13:25:51 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:26:01 - INFO - Req was made | / 
+22.7.2023, 13:26:01 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:27:36 - INFO - Req was made | / 
+22.7.2023, 13:27:36 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:28:06 - INFO - Req was made | / 
+22.7.2023, 13:28:06 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:32:02 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:32:02 - INFO - Req was made | / 
+22.7.2023, 13:35:14 - INFO - Req was made | / 
+22.7.2023, 13:35:14 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:35:47 - INFO - Req was made | / 
+22.7.2023, 13:35:47 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:35:55 - INFO - Req was made | / 
+22.7.2023, 13:35:55 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:42:53 - INFO - server.js loaded... 
+22.7.2023, 13:42:53 - INFO - Server is running on port: 3033 
+22.7.2023, 13:48:15 - INFO - Req was made | / 
+22.7.2023, 13:48:15 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:48:24 - INFO - Req was made | / 
+22.7.2023, 13:48:24 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:48:35 - INFO - Req was made | / 
+22.7.2023, 13:48:35 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:51:55 - INFO - Req was made | / 
+22.7.2023, 13:51:55 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:52:16 - INFO - Req was made | / 
+22.7.2023, 13:52:16 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:54:21 - INFO - Req was made | / 
+22.7.2023, 13:54:21 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:55:00 - INFO - Req was made | / 
+22.7.2023, 13:55:00 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 13:56:32 - INFO - Req was made | / 
+22.7.2023, 13:56:32 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:00:18 - INFO - Req was made | / 
+22.7.2023, 14:00:18 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:11:58 - INFO - Req was made | / 
+22.7.2023, 14:11:58 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:16:50 - INFO - Req was made | / 
+22.7.2023, 14:16:50 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:18:59 - INFO - Req was made | / 
+22.7.2023, 14:18:59 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:19:15 - INFO - Req was made | / 
+22.7.2023, 14:19:15 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:20:07 - INFO - Req was made | / 
+22.7.2023, 14:20:07 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:20:50 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:20:50 - INFO - Req was made | / 
+22.7.2023, 14:20:58 - INFO - Req was made | / 
+22.7.2023, 14:20:58 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:21:02 - INFO - Req was made | / 
+22.7.2023, 14:21:02 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:21:16 - INFO - Req was made | / 
+22.7.2023, 14:21:16 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:27:04 - INFO - Req was made | / 
+22.7.2023, 14:27:04 - DEBUG - Getting Toys | {"name":"asd","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:27:05 - INFO - Req was made | / 
+22.7.2023, 14:27:05 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:27:06 - INFO - Req was made | / 
+22.7.2023, 14:27:06 - DEBUG - Getting Toys | {"name":"tr","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:27:08 - INFO - Req was made | / 
+22.7.2023, 14:27:08 - DEBUG - Getting Toys | {"name":"","stock":"all","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:50:50 - INFO - server.js loaded... 
+22.7.2023, 14:50:50 - INFO - Server is running on port: 3033 
+22.7.2023, 14:50:55 - INFO - Req was made | / 
+22.7.2023, 14:50:55 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:51:36 - INFO - Req was made | / 
+22.7.2023, 14:51:36 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:52:03 - INFO - Req was made | / 
+22.7.2023, 14:52:03 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:52:34 - INFO - Req was made | / 
+22.7.2023, 14:52:34 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:53:06 - INFO - Req was made | / 
+22.7.2023, 14:53:06 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:53:08 - INFO - Req was made | / 
+22.7.2023, 14:53:08 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:53:11 - INFO - Req was made | / 
+22.7.2023, 14:53:11 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:53:35 - INFO - Req was made | / 
+22.7.2023, 14:53:35 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 
+22.7.2023, 14:53:50 - INFO - Req was made | / 
+22.7.2023, 14:53:50 - DEBUG - Getting Toys | {"name":"","stock":"","sortBy":"name","sortDir":"1","labels":[],"pageIdx":"0"} 

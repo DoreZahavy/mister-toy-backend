@@ -24,7 +24,6 @@ function query(filterBy) {
 
     if (stock === 'yesStock') filteredToys = filteredToys.filter(toy => toy.inStock)
     else if (stock === 'noStock') filteredToys = filteredToys.filter(toy => !toy.inStock)
-    console.log('filteredToys:', filteredToys)
 
     // sorting
     if (sortBy === 'name') {
@@ -43,8 +42,26 @@ function query(filterBy) {
         filteredToys = filteredToys.slice(startPageIdx, startPageIdx + PAGE_SIZE)
     }
 
+    // chart data
 
-    return Promise.resolve({ toys: filteredToys, maxPageCount })
+
+    // var toyLabels = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle', 'Outdoor', 'Battery powered']
+
+
+    var chartData = toys.reduce((acc, toy) => {
+            toy.labels.forEach(label => {
+        
+                if (!acc[label]) acc[label] = 0
+                acc[label]++
+            })
+            
+            return acc
+        }, {})
+console.log('chartData:', chartData)
+
+
+
+    return Promise.resolve({ toys: filteredToys, maxPageCount, chartData })
     // return Promise.resolve( filteredToys)
 }
 

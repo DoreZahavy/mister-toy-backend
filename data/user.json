@@ -1,30 +1,32 @@
 [
   {
-    "_id": "u101",
     "username": "admin",
     "fullname": "adminos admin",
     "password": "admin",
     "isAdmin": true
   },
   {
-    "_id": "u102",
     "username": "muki",
     "fullname": "Muki Ba",
     "password": "secret2",
     "isAdmin": false
   },
   {
+    "username": "chico",
+    "fullname": "Muki Ba",
+    "password": "chicoco",
+    "isAdmin": false
+  },
+  {
     "username": "jajo",
     "password": "jajo",
     "fullname": "Jajo Go",
-    "_id": "3OzmP",
     "isAdmin": false
   },
   {
     "username": "kiki",
     "password": "kiki",
     "fullname": "kikiki",
-    "_id": "R5jNz",
     "isAdmin": false
   }
 ]
